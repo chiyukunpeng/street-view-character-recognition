@@ -1,6 +1,6 @@
 ##  Introduction
 
-This project is a contest in tianchi of Alibaba. It aims to infer street-view character based on SVNH(from google) . Our method uses combined models based on data enhancement and global nms. Expriments show that our method outperforms state-of-the-art.
+This project is a contest in tianchi of Alibaba. It aims to infer street-view character based on SVNH(from google) . Our method uses combined models based on data enhancement and global nms. Expriments show that our method outperforms state-of-the-art. More information please see [CSDN](https://blog.csdn.net/chiyukunpeng/article/details/107861429?spm=1001.2014.3001.5502)
 
 ## Quick Start
 
